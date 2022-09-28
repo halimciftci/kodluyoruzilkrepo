@@ -5,6 +5,8 @@ Bu repo kodluyoruz front end eğitiminde oluşturduğumuz ilk repo. İçerisinde
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
+![Lorem picsum görsel](https://github.com/halimciftci/kodluyoruzilkrepo/blob/main/repo.jpg)
+
 ```
 git clone https://github.com/halimciftci/kodluyoruzilkrepo.git
 ```
